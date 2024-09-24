@@ -15,7 +15,7 @@ print("Product is", product)
 #make the product of the two numbers from previous steps but I failed..
 ("lamb_curry, pizza, baked_macaroni")
 #make favortie foods into a variable I failed aswell..
-if_
+
 #step 7 oms make an if statement to see if they can get their drivers license.. Im giving up.
 input("Your_name:")
 #step 8 whats yo name shawty??

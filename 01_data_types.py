@@ -41,8 +41,7 @@ TASK 4:
 Create a dictionary with keys as fruit names and values as their respective quantities. 
 Then print out the quantity of one of the fruits.
 """
-store = 
-{
+store ={
    "apples": 7,
    "bananas": 8,
    "oranges": 6
