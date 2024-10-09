@@ -23,7 +23,7 @@ Using the strptime function, convert two strings into dates.
 Then find the difference in days between the two.
 """
 from datetime import datetime
-date_1 = 
+
 """
 Excercise 4:
 Write a program that asks the user for their birthdate and calculates their current 
