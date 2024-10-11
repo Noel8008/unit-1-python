@@ -1,4 +1,7 @@
 """
+simple greeting ↓
+"""
+"""
 Task 1: Greeting
 Write a function that takes a name as a 
 parameter and prints a greeting message like "Hello, [name]!".
@@ -9,6 +12,9 @@ def my_function(name):
 my_function("Bob")
 #copied str8 frm the slides B)
 """
+squaring a number 2^2 ^_^
+"""
+"""
 Task 2: Square of a Number
 Write a function that takes an integer as an argument and returns its square.
 """
@@ -18,6 +24,10 @@ def squared_num(i):
 vanderbilt = squared_num(42)
 
 #squaring 42 on gang B)
+"""
+depending if the number input is even or odd 
+*this lowkey getting pointless im just repeating the instructions am i not supposed to copy that O_o*
+"""
 """
 Task 3: Even or Odd
 Write a function that takes a number as a argument that 
@@ -32,6 +42,9 @@ def TruOrFal (num):
 HEEELppppp = TruOrFal(number)
 #if else statement to a true or false statement to determine if the number is even or odd
 """
+length times height area = of a rectangle 
+"""
+"""
 Task 4: Area of a Rectangle
 Write a function that takes the length and width of a rectangle and returns its area.
 """
@@ -39,13 +52,17 @@ def multiply_num(a, b):
     return a * b
 
 x = multiply_num(7, 8)
+# l*h omm
+"""
+converting cel to far using math
+"""
 """
 Task 5: Celsius to Fahrenheit
 Write a function that takes a temperature in Celsius and returns 
 the equivalent temperature in Fahrenheit using the correct formula
 """
-
-
+def  CelToFar(celcius): 
+    bool
 """
 Task 6: Average of Numbers
 Write a function that takes a list of numbers 
